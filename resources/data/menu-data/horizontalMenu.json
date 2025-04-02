@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "url": "/admin",
+      "name": "Home",
+      "icon": "home",
+      "slug": "admin.home"
+    },
+    {
+      "url": "/admin/order",
+      "name": "Orders",
+      "icon": "shopping-cart",
+      "slug": "admin.order.index"
+    },
+    {
+      "url": "/admin/tour",
+      "name": "Tours",
+      "icon": "layers",
+      "slug": "admin.tour.index"
+    },
+    {
+      "url": "/admin/contact",
+      "name": "Contact",
+      "icon": "phone",
+      "slug": "admin.contact.index"
+    },
+    {
+      "url": "/admin/gallery",
+      "name": "Gallery",
+      "icon": "square",
+      "slug": "admin.gallery.index"
+    }
+  ]
+}
