@@ -29,7 +29,7 @@
               </g>
             </svg>
           </span> -->
-          <h2 class="brand-text mb-0">CHAMADONTOUR</h2>
+          <h2 class="brand-text mb-0">Samira-Travel</h2>
         </a>
       </li>
     </ul>

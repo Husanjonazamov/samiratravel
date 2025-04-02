@@ -111,8 +111,8 @@
                             <div class="sidebar-helpline-content">
                                 <h3>Savollaringizni bormi?</h3>
                                 <p>Savollaringizni va boshqa murojaatlarni quyidagi raqam yoki elektron pocta orqali qoldirishingiz mumkin.</p>
-                                <p><i class="flaticon-phone-call"></i>+998-95-681-11-00</p>
-                                <p><i class="flaticon-mail"></i> <a href="mailto:chamadontuour@mail.ru">chama@mail.ru</a></p>
+                                <p><i class="flaticon-phone-call"></i>+998-95-161-08-80</p>
+                                <p><i class="flaticon-mail"></i> <a href="mailto:samiratravel@mail.ru">samiratravel@mail.ru</a></p>
                             </div>
                         </div>
                     </aside>

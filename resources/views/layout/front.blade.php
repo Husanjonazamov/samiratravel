@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>@yield('title') - {{__('Chamadon Tour')}}</title>
+    <title>@yield('title') - {{__('Samira-Travel')}}</title>
 
     <!-- Open Graph tags -->
     <meta property="og:title" content="@yield('title') - {{__('Samira-travel MChJ')}}" />
