@@ -107,7 +107,7 @@
                                 <div class="package-info">
                                     <a href="{{ route('buy.show', ['id'=>$item->id]) }}" 
                                     class="btn-blue" 
-                                    style="background-color: #bfc012; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: none;">
+                                    style="background-color: #ffd320; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: none;">
                                         {{ __('Order') }}
                                     </a>
                                 </div>
@@ -147,7 +147,7 @@
                                         <h3>{{ $item->title }}</h3>
                                         <a href="{{ route('buy.show', ['id'=>$item->id]) }}"
                                            class="btn-blue btn-red"
-                                           style="background-color: #bfc012; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: none;">
+                                           style="background-color: #ffd320; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: none;">
                                            {{ __('Order') }}</a></div>
                                 </div>
                             </div>

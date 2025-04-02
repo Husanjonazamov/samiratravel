@@ -100,7 +100,7 @@
                 <div class="carousel-item active">
 
                     <div class="testimonial_094_slide">
-                        <p>"AGN TOUR bilan birinchi marta safar qildim va juda mamnunman. Ularning xizmati professional darajada bo'lib, har bir detaldan e'tibor berilgan. Tur vaqti davomida barcha rejalashtirilgan joylarga tashrif buyurdik va yo'lda hech qanday muammo bo'lmadi. Bundan tashqari, gidlar juda bilimli va samimiy edilar. AGN TOUR'ni hammaga tavsiya qilaman!"</p>
+                        <p>"Samira-travel bilan birinchi marta safar qildim va juda mamnunman. Ularning xizmati professional darajada bo'lib, har bir detaldan e'tibor berilgan. Tur vaqti davomida barcha rejalashtirilgan joylarga tashrif buyurdik va yo'lda hech qanday muammo bo'lmadi. Bundan tashqari, gidlar juda bilimli va samimiy edilar. AGN TOUR'ni hammaga tavsiya qilaman!"</p>
                         <div class="deal-rating">
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
@@ -116,7 +116,7 @@
                 <div class="carousel-item">
 
                     <div class="testimonial_094_slide">
-                        <p>"AGN TOUR orqali Italiyaga sayohat qildik va bu biz uchun unutilmas tajriba bo'ldi. Turistik joylar, mehmonxonalar va transport xizmatlari juda yuqori darajada edi. Ayniqsa, gidning tarixi va madaniyati haqida qiziqarli ma'lumotlari bizni o'ziga tortdi. Ular har bir mijozga alohida e'tibor qaratishadi, bu esa bizni yana qayta ularga murojaat qilishimizga sabab bo'ladi."
+                        <p>"Samira-travel orqali Italiyaga sayohat qildik va bu biz uchun unutilmas tajriba bo'ldi. Turistik joylar, mehmonxonalar va transport xizmatlari juda yuqori darajada edi. Ayniqsa, gidning tarixi va madaniyati haqida qiziqarli ma'lumotlari bizni o'ziga tortdi. Ular har bir mijozga alohida e'tibor qaratishadi, bu esa bizni yana qayta ularga murojaat qilishimizga sabab bo'ladi."
 </p>
                         <div class="deal-rating">
                             <span class="fa fa-star checked"></span>
@@ -133,7 +133,7 @@
                 <div class="carousel-item">
 
                     <div class="testimonial_094_slide">
-                        <p>"AGN TOUR bilan Fransiyaga sayohat qildik va xizmatlaridan juda mamnun bo'ldik. Ular safar oldidan barcha kerakli ma'lumotlarni to'liq va aniq berishdi. Safar davomida bizni doimiy ravishda kuzatib borishdi va har qanday savolimizga tezda javob berishdi. Bunday xizmat ko'rsatganlari uchun katta rahmat, albatta, yana AGN TOUR bilan sayohat qilishni rejalashtiramiz."</p>
+                        <p>"Samira-travel bilan Fransiyaga sayohat qildik va xizmatlaridan juda mamnun bo'ldik. Ular safar oldidan barcha kerakli ma'lumotlarni to'liq va aniq berishdi. Safar davomida bizni doimiy ravishda kuzatib borishdi va har qanday savolimizga tezda javob berishdi. Bunday xizmat ko'rsatganlari uchun katta rahmat, albatta, yana AGN TOUR bilan sayohat qilishni rejalashtiramiz."</p>
                         <div class="deal-rating">
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>

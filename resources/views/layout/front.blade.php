@@ -6,11 +6,11 @@
     <title>@yield('title') - {{__('Chamadon Tour')}}</title>
 
     <!-- Open Graph tags -->
-    <meta property="og:title" content="@yield('title') - {{__('CHAMADONTOUR')}}" />
+    <meta property="og:title" content="@yield('title') - {{__('Samira-travel MChJ')}}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ Request::url() }}" />
     <meta property="og:image" content="/assets/images/travel_logo.png" />
-    <meta property="og:description" content="Chamadon Tour – sayohat dunyosiga sarguzashtingizni boshlash uchun ideal tanlov! Biz sizni eng go'zal va nafis joylarga olib boramiz. Agn Tour dunyoning turli burchaklariga, madaniyatlar bilan tanishish va yangi tajribalar orttirish imkoniyatini taqdim etadi. Bizning professional va mehribon jamoamiz har bir sayohatchiga shaxsiy yondashuvni ta'minlaydi va ularga unutilmas taassurotlar qoldirishni kafolatlaydi. Bizning sayohatlarimiz turli xil bo'lib, ular orasida ekskursiyalar, dam olish sayohatlari, ekoturizm, shahar turlari va boshqalar mavjud. Sayohatingizni Agn Tour bilan rejalashtiring va dunyoni yangicha ko'z bilan kashf eting!" />
+    <meta property="og:description" content="Samira-travel MChJ – sayohat dunyosiga sarguzashtingizni boshlash uchun ideal tanlov! Biz sizni eng go'zal va nafis joylarga olib boramiz. Agn Tour dunyoning turli burchaklariga, madaniyatlar bilan tanishish va yangi tajribalar orttirish imkoniyatini taqdim etadi. Bizning professional va mehribon jamoamiz har bir sayohatchiga shaxsiy yondashuvni ta'minlaydi va ularga unutilmas taassurotlar qoldirishni kafolatlaydi. Bizning sayohatlarimiz turli xil bo'lib, ular orasida ekskursiyalar, dam olish sayohatlari, ekoturizm, shahar turlari va boshqalar mavjud. Sayohatingizni Agn Tour bilan rejalashtiring va dunyoni yangicha ko'z bilan kashf eting!" />
     <meta property="og:site_name" content="AGN " />
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/samiritravel/2.png">
@@ -141,7 +141,7 @@
                         @else 
                             <li> 
                         @endif
-                            <a href="{{ route('contact') }}" style="color: #FB8B01">@lang('Contact')</a>
+                            <a href="{{ route('contact') }}" style="color: #ffd320">@lang('Contact')</a>
                         </li>
                     </ul>
 
@@ -168,7 +168,7 @@
                     <div class="col-lg-3">
                         <div class="footer-about footer-margin">
                             <div class="about-logo">
-                                <h5>CHAMADONTOUR</h5>
+                                <h5>SAMIRA-TRAVEL MChJ</h5>
                             </div>
 <p>@lang('We will organize tours for you throughout Uzbekistan') </p>
                             <div class="about-location">
@@ -180,8 +180,8 @@
                             </div>
                             <div class="footer-social-links">
                                 <ul>
-                                    <li class="social-icon"><a href="https://t.me/agntour"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
-                                    <li class="social-icon"><a href="https://instagram.com/agntour.uz"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li class="social-icon"><a href="https://t.me/Samira_travel"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+                                    <li class="social-icon"><a href="https://www.instagram.com/samiratravel2025/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                     <!-- <li class="social-icon"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
                                     <!-- <li class="social-icon"><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li> -->
                                     <!-- <li class="social-icon"><a href="#"><i class="fa fa-google" aria-hidden="true"></i></a></li> -->
