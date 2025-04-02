@@ -75,7 +75,11 @@
                                 </div>
                                 <div class="form-group col-lg-6 col-left-padding">
                                     <label>@lang('Payment method'):</label>
-                                    <input type="text" class="form-control" disabled value="Payme">
+                                    <select class="form-control">
+                                        <option value="payme">Payme</option>
+                                        <option value="mastercard">Mastercard</option>
+                                        <option value="visa">VISA</option>
+                                    </select>
                                 </div>
                                 <div class="form-group col-lg-6 col-left-padding">
                                     <label>@lang('No of Tickets'):</label>
