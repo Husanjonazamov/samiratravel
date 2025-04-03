@@ -49,14 +49,14 @@
                             <div id="in_th_030" class="carousel slide in_th_brdr_img_030 thumb_scroll_x swipe_x ps_easeOutQuint" data-ride="carousel" data-pause="hover" data-interval="4000" data-duration="2000">
                                 <ol class="carousel-indicators">
                                     <li data-target="#in_th_030" data-slide-to="0" class="active">
-                                        <img src="{{ ($item->image->url ?? 'https://agntour.uz/storage/gallery/34/1715602179_1.jpg') }}"
+                                        <img src="{{ ($item->image->url ?? 'https://samiratravel.uz/storage/gallery/34/1715602179_1.jpg') }}"
                                              alt="in_th_030_01_sm"/>
                                     </li>
                                     @if (!$item->gallery->isEmpty())
                                         @foreach ($item->gallery as $image))
                                         <li data-target="#in_th_030"
                                             data-slide-to="{{$loop->iteration}}">
-                                            <img src="{{ ($image->url ?? 'https://agntour.uz/storage/gallery/34/1715602179_1.jpg' ) }}"
+                                            <img src="{{ ($image->url ?? 'https://samiratravel.uz/storage/gallery/34/1715602179_1.jpg' ) }}"
                                                  alt="in_th_030_{{$loop->iteration}}"  width="100px" height="100px"/>
                                         </li>
                                         @endforeach
@@ -73,7 +73,7 @@
                                     @if (!$item->gallery->isEmpty())
                                         @foreach ($item->gallery as $image)
                                         <div class="carousel-item">
-                                            <img src="{{ ($image->url ?? 'https://agntour.uz/storage/gallery/34/1715602179_1.jpg') }}" alt="in_th_030_{{$loop->iteration}}"/>
+                                            <img src="{{ ($image->url ?? 'https://samiratravel.uz/storage/gallery/34/1715602179_1.jpg') }}" alt="in_th_030_{{$loop->iteration}}"/>
                                         </div>
                                         @endforeach
                                     @endif
