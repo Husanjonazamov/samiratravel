@@ -22,7 +22,7 @@ class MediaService
             'type' => $type,
             'size' => $attributes['media']->getSize(),
             'mime_type' => $attributes['media']->getClientMimeType(),
-            'url' => config('global.url') . Str::replaceFirst('public', '/storage', $uploadedFile),
+            'url' => config('app.url') . Str::replaceFirst('public', '/storage', $uploadedFile),
             'path' => '/' . $uploadedFile,
         ]);
 
