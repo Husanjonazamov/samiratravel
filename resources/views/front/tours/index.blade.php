@@ -45,7 +45,7 @@
                                     <div class="destination-item box-item">
                                         <div class="destination-image text-center">
                                             <a href="{{ route('tour.show', ['id'=>$item->id]) }}"><img
-                                                        src="{{ $item->image->url ?? 'https://agntour.uz/storage/gallery/34/1715602179_1.jpg' }}"
+                                                        src="{{ $item->image->url ?? 'https://samiratravel.uz/storage/gallery/34/1715602179_1.jpg' }}"
                                                         alt="Image" ></a>
                                         </div>
                                         <div class="destination-content">

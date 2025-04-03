@@ -89,7 +89,7 @@
                             <div class="sidebar-content sidebar-slider">
                                 <div class="sidebar-package">
                                     <div class="sidebar-package-image">
-                                        <img src="{{ $item->image->url ?? 'https://agntour.uz/storage/gallery/35/1715602192_2.jpg' }}" alt="image">
+                                        <img src="{{ $item->image->url ?? 'https://samiratravel.uz/storage/gallery/35/1715602192_2.jpg' }}" alt="image">
                                     </div>
                                     <div class="destination-content sidebar-package-content">
                                         <h4><a href="tour-detail.html">{{ $item->title }}</a></h4>

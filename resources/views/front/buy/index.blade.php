@@ -34,7 +34,7 @@
                         <div class="payment-info detail">
                             <div class="row">
                                 <div class="col-lg-5">
-                                    <img src="{{$item->image->url ?? 'https://agntour.uz/storage/gallery/34/1715602179_1.jpg'}}" alt="Image">
+                                    <img src="{{$item->image->url ?? 'https://samiratravel.uz/storage/gallery/34/1715602179_1.jpg'}}" alt="Image">
                                 </div>
                                 <div class="col-lg-7">
                                     <h3>{{ $item->title }}</h3>

@@ -10,7 +10,7 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     @foreach($sliders ?? [] as $slider)
-                        <div class="swiper-slide" style="background-image:url({{  $slider->image->url  ?? 'https://agntour.uz/storage/gallery/37/1715602217_4.jpg'}})">
+                        <div class="swiper-slide" style="background-image:url({{  $slider->image->url  ?? 'https://samiratravel.uz/storage/gallery/37/1715602217_4.jpg'}})">
                             <div class="swiper-content" data-animation="animated fadeInDown">
                                 <h2>{{ $slider->title }}</h2>
                                 <h1>{{ $slider->title }}</h1>
@@ -88,7 +88,7 @@
                     <div class="col-lg-{{$famouses->count()<4 ? 9 : 4}}">
                         <div class="package-item">
                             <div class="package-image">
-                                <img src="{{ $item->image->url ?? 'https://agntour.uz/storage/gallery/36/1715602205_3.jpg' }}" alt="Image">
+                                <img src="{{ $item->image->url ?? 'https://samiratravel.uz/storage/gallery/36/1715602205_3.jpg' }}" alt="Image">
                                 <div class="package-price">
                                     <div class="deal-rating">
                                         <span class="fa fa-star checked"></span>
@@ -133,7 +133,7 @@
                             <div class="deals-item">
                                 <div class="deals-item-outer">
                                     <div class="deals-image">
-                                        <img src="{{ $item->image->url ?? 'https://agntour.uz/storage/gallery/35/1715602192_2.jpg' }}" alt="Image">
+                                        <img src="{{ $item->image->url ?? 'https://samiratravel.uz/storage/gallery/35/1715602192_2.jpg' }}" alt="Image">
                                         <span class="deal-price">{{ $item->price_small  }}</span>
                                     </div>
                                     <div class="deal-content">
@@ -171,7 +171,7 @@
                     <div class="col-lg-4 col-md-12 mar-bottom-30">
                         <div class="blog-item">
                             <div class="blog-image">
-                                <img src="{{ $galary->image->url ?? 'https://agntour.uz/storage/gallery/34/1715602179_1.jpg' }}" alt="Image" height="256px">
+                                <img src="{{ $galary->image->url ?? 'https://samiratravel.uz/storage/gallery/34/1715602179_1.jpg' }}" alt="Image" height="256px">
                             </div>
                         </div>
                     </div>
